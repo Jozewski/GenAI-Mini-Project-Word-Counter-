@@ -1,0 +1,5 @@
+Hello, World! How are you?
+Python's great - really, really great.
+"Testing" punctuation: semicolons; colons: and more!
+What about contractions? Don't they count?
+Numbers like 123 and symbols like @#$ should be handled.
